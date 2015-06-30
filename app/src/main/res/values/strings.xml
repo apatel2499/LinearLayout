@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LinearLayout</string>
+
+    <string name="message_hint">Enter a message</string>
+    <string name="send_label">Send</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
